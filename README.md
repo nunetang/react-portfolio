@@ -2,6 +2,8 @@
 
 Personal Portfolio made with React.js
 
+<img src = "public/assets/images/demo.png">
+
 ## Description
 
 Updated React portfolio featuring 8 total projects
