@@ -2,7 +2,7 @@
 
 Personal Portfolio made with React.js
 
-<img src = "public/assets/images/demo.png">
+<img src = "public/assets/images/demo.PNG">
 
 ## Description
 
