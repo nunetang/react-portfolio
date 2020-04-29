@@ -6,11 +6,11 @@ Personal Portfolio made with React.js
 
 ## Description
 
-Updated React portfolio featuring 8 total projects
+Updated React Portfolio featuring 8 total projects
 
 ## Requirements
 
- * Use React
+ * Using React
 
  * A Header component that appears on multiple pages
 
