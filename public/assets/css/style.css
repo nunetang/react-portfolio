@@ -1,0 +1,27 @@
+body {
+    background-color: #1c1a1b;
+  }
+  
+  #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+  
+  .main-view {
+    background-color: #ebe6ec;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .links img {
+    height: 64px;
+    margin: 0 32px;
+  }

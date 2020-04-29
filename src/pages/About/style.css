@@ -1,0 +1,18 @@
+.headshot {
+    float: left;
+    margin-right: 16px;
+    width: 100%;
+    margin-bottom: 8px;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .headshot {
+      width: 40%;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) {
+    .headshot {
+      width: 35%;
+    }
+  }

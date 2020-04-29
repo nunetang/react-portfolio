@@ -1,0 +1,19 @@
+.contact-link {
+    display: flex;
+    margin-bottom: 8px;
+    align-items: center;
+  }
+  
+  .contact-link img {
+    width: 24px;
+    margin-right: 16px;
+  }
+  
+  .contact-link i {
+    width: 24px;
+    margin-right: 16px;
+  }
+  
+  .contact-link:last-child {
+    margin-bottom: 48px;
+  }
